@@ -4,9 +4,7 @@ description: A virtual discription of a website to house random thoughts and bui
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: 
-    - Who I am: "aboutme"
-    - Contact:  "contact"
+  About Me: "aboutme"
   Academic Projects: "school"
   Chemistry Stuff: "chem"
 
