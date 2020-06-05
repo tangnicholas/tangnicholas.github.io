@@ -17,12 +17,13 @@ To be honest, I'm having some trouble remembering right now, so why don't you ju
 
 ### Past Work Experience
 
-> **UBC Department of Psychology**, _Junior IT Support Analyst_
->
-> **UBC Aqautic Center**, _Lifeguard/Instructor_
->
-> **Tide's Out Services**, _Lifeguard/Instructor_
->
-> **WRASA**, _Swimming Instructor_
->
-> **YMCA Camp Southwind**, _Lifeguard/Team Leader_
+
+**UBC Department of Psychology**, Junior IT Support Analyst
+
+**UBC Aqautic Center**, Lifeguard/Instructor
+
+**Tide's Out Services**, Lifeguard/Instructor
+
+**WRASA**, Swimming Instructor
+
+**YMCA Camp Southwind**, Lifeguard/Team Leader
