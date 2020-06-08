@@ -4,9 +4,10 @@ title: Academic Projects
 subtitle: The place where I'm storing my coursework worth highlighting for.
 ---
 
+
 ### Python plot of a Brayton Cycle
 
-![BC_TSgraph](assets/img/BC_TSgraph_image.png)
+![BC_TSgraph](assets/img/BC_TSgraph_image.png){: .mx-auto.d-block :}
 
 ```python
 import numpy
