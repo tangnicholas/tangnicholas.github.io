@@ -58,7 +58,7 @@ plt.plot(S4, T4, label='4 → 1, isobaric')
 plt.legend(loc='best')
 
 # Plot Temperature vs Entropy
-plt.title("Q3 Brayton Cycle T-ΔS Graph")
+plt.title("Brayton Cycle T-ΔS Graph")
 plt.xlabel("ΔS(J/K)")
 plt.ylabel("Temperature (K)")
 #plt.ylim(-20, 55)
