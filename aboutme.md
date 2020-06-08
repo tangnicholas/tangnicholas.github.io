@@ -27,4 +27,4 @@ My name is Nicholas Tang. I am a second year Electrical Engineering student in t
 </object>
 
 
-![Portfolio](assets/pdf/Projects Portfolio.pdf)
+[Portfolio](assets/pdf/Projects Portfolio.pdf)
