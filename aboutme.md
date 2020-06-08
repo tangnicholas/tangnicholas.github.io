@@ -30,3 +30,6 @@ My name is Nicholas Tang. I am a second year Electrical Engineering student in t
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/Resume 11-3-2020.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
+
+![Portfolio](/assets/pdf/Projects Portfolio.pdf)
