@@ -10,18 +10,13 @@ My name is Nicholas Tang. I am a second year Electrical Engineering student in t
 - This was a fork of beautiful-jekyll, all credit goes to Dean Attali
 
 
-
 ### Past Work Experience
 
-**UBC Department of Psychology**, Junior IT Support Analyst
-
-**UBC Aqautic Center**, Lifeguard/Instructor
-
-**Tide's Out Services**, Lifeguard/Instructor
-
-**WRASA**, Swimming Instructor
-
-**YMCA Camp Southwind**, Lifeguard/Team Leader
+**UBC Department of Psychology**, Junior IT Support Analyst  
+**UBC Aqautic Center**, Lifeguard/Instructor  
+**Tide's Out Services**, Lifeguard/Instructor  
+**WRASA**, Swimming Instructor  
+**YMCA Camp Southwind**, Lifeguard/Team Leader  
 
 
 ### Resume & Project Portfolio
