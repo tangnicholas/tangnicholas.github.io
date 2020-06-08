@@ -5,7 +5,8 @@ description: A virtual discription of a website to house random thoughts and bui
 
 navbar-links:
   About Me: "aboutme"
-  Academic Projects: "school"
+  Academic Projects:
+#   - Directory: "school"
     - Python Plot: "python-plot"
     - Assembly: "assembly"
 
