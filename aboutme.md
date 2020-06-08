@@ -20,11 +20,10 @@ My name is Nicholas Tang. I am a second year Electrical Engineering student in t
 
 
 ### Resume & Project Portfolio
+
 <object data="/assets/pdf/Resume 11-3-2020.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="/assets/pdf/Resume 11-3-2020.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/pdf/Resume 11-3-2020.pdf">Download PDF</a>.</p>
     </embed>
-</object>
-
-
-[Portfolio](assets/pdf/Projects Portfolio.pdf)
+</object>  
+[Projects Portfolio](assets/pdf/Projects Portfolio.pdf)
