@@ -21,7 +21,7 @@ I used store-bought "Westpoint Naturals Instant Yeast", table sugar (sucrose) at
 
 First of all, I wanted to distill the water to remove contaminants and increase the alcohol percentage. I did this by taking a pot, filling it with water till half full and placing a bowl on top of the water (make sure it floats), then placing the lid **inverted** onto the pot. Bringing the water to a boil, I then placed the ice cubes on the top of the boiling pot lid, allowing for condensation to quickly happen and collect the distilled water onto the floating bowl.
 
-![yeast](file://assets/img/yeast.jpg)
+![yeast](./assets/img/yeast.jpg)
 
 ![water_pot](file://assets/img/water_pot.jpg)
 
