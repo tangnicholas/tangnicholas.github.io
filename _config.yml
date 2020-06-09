@@ -8,7 +8,7 @@ navbar-links:
   Coursework:
 #   - Directory: "school"
     - Python Plot: "python-plot"
-    - Heart Rate Monitor: hrm_C"
+    - Heart Rate Monitor: "hrm_c"
     - Assembly: "assembly"
 
 
