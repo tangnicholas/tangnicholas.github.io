@@ -5,7 +5,7 @@ description: A virtual discription of a website to house random thoughts and bui
 
 navbar-links:
   About Me: "aboutme"
-  Courswork:
+  Coursework:
 #   - Directory: "school"
     - Python Plot: "python-plot"
     - Heart Rate Monitor: hrm_C"
