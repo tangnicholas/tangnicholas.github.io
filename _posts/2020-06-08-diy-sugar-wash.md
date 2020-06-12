@@ -21,11 +21,9 @@ Since COVID-19 has hit our local communities, I have been increasinly bored from
 
 I used store-bought "Westpoint Naturals Instant Yeast", table sugar (sucrose) at home, a suvee cooker for a water bath, and also tap water.
 
+![yeast](/assets/img/2020-06-08/yeast.jpg =250x) ![water_pot](/assets/img/2020-06-08/water_pot.jpg =250x)
+
 First of all, I wanted to distill the water to remove contaminants and increase the alcohol percentage. I did this by taking a pot, filling it with water till half full and placing a bowl on top of the water (make sure it floats), then placing the lid **inverted** onto the pot. Bringing the water to a boil, I then placed the ice cubes on the top of the boiling pot lid, allowing for condensation to quickly happen and collect the distilled water onto the floating bowl.
-
-![yeast](/assets/img/2020-06-08/yeast.jpg)
-
-![water_pot](/assets/img/2020-06-08/water_pot.jpg)
 
 With the distilled water, it was time to start the sugar wash. Since this was a trial run, I used 25g of sugar and 75mL of warm distilled water. After mixing them together, I put an excess amount of yeast in, and brought the mixture-filled glass into a water bath. The temperature was set to 93F, or approximately 34°C, and left for 3 days.
 
