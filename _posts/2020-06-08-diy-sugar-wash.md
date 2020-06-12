@@ -3,9 +3,8 @@ layout: post
 title: Sugar Wash
 subtitle: An DIY experiment done at home
 cover-img: /assets/img/2020-06-08/beer.jpg
-image: /assets/img/2020-06-08/yeast.jpg
-image: /assets/img/2020-06-08/water_pot.jpg
-image: /assets/img/2020-06-08/water_bath.jpg
+image: /assets/img/2020-06-08/yeast.jpg  /assets/img/2020-06-08/water_pot.jpg  /assets/img/2020-06-08/water_bath.jpg
+show-avatar: false
 tags: [chemistry, experiment]
 ---
 
