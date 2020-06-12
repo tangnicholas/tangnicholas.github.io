@@ -24,8 +24,8 @@ Since COVID-19 has hit our local communities, I have been increasinly bored from
 I used store-bought "Westpoint Naturals Instant Yeast", table sugar (sucrose) at home, a suvee cooker for a water bath, and also tap water.
 
 <p float="left">
-  <img align="center" src="/assets/img/2020-06-08/yeast.jpg" width="224.719"/> 
-  <img align="center" src="/assets/img/2020-06-08/water_pot.jpg" width="400"/> 
+  <img align="center" src="/assets/img/2020-06-08/yeast.jpg" width="253"/> 
+  <img align="center" src="/assets/img/2020-06-08/water_pot.jpg" width="450"/> 
 </p>
 
 First of all, I wanted to distill the water to remove contaminants and increase the alcohol percentage. I did this by taking a pot, filling it with water till half full and placing a bowl on top of the water (make sure it floats), then placing the lid **inverted** onto the pot. Bringing the water to a boil, I then placed the ice cubes on the top of the boiling pot lid, allowing for condensation to quickly happen and collect the distilled water onto the floating bowl.
