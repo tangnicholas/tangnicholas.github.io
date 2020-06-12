@@ -24,7 +24,7 @@ Since COVID-19 has hit our local communities, I have been increasinly bored from
 I used store-bought "Westpoint Naturals Instant Yeast", table sugar (sucrose) at home, a suvee cooker for a water bath, and also tap water.
 
 <p class="center">
-  <img src="/assets/img/2020-06-08/yeast.jpg" width="300"/> 
+  <img src="/assets/img/2020-06-08/yeast.jpg" width="224.719"/> 
   <img src="/assets/img/2020-06-08/water_pot.jpg" width="400"/> 
 </p>
 
